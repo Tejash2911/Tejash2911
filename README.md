@@ -31,7 +31,7 @@
 <a href="https://www.mongodb.com/"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="30" /></a>
 <a href="https://nextjs.org/"><img align="center" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="30" /></a>
 <a href="https://git-scm.com/"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30" /></a>
-<a href="https://postman.com"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="30" /></a>
+<a href="https://postman.com"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" /></a>
 </p>
 
 

@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **something cool!**
 
-- 🌱 I’m currently learning **React in Frontend Web Development**
+- 🌱 I’m currently learning **Next.Js in FullStack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejash2911](https://github.com/Tejash2911)
 
-- 💬 Ask me about **Html, Css, Javascript and React**
+- 💬 Ask me about **Html, Css, Javascript, React and Next.Js**
 
 - 📫 How to reach me **tcpatel2911@gmail.com**
 
